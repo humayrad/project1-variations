@@ -1,0 +1,46 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+
+.tomato {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+body
+{
+   text-align: left;
+    background-color:rgb(141, 141, 141);
+    background: url(https://images.unsplash.com/photo-1583173451851-dd9ba01f891e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVuJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80)
+       
+}
+
+
+h1{
+    font-family: 'Smooch Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+h2{
+    font-family: 'Smooch Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    letter-spacing: 25px;
+
+}
+

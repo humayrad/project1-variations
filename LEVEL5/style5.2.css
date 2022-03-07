@@ -1,0 +1,44 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+
+.tomato {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+body
+{
+    font-size:100%;
+    font-stretch: expanded;
+    background-color:rgb(141, 141, 141);
+    background: url(https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_toystory_16x9_8461039f.jpeg)
+       
+}
+
+
+h1{
+    font-family: 'Smooch Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Smooch Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+

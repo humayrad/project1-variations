@@ -1,0 +1,56 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    font-family:'Smooch Sans', sans-serif;
+    border-bottom: 1px dashed rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    
+}
+
+
+.first {
+  text-transform: uppercase;
+  border-bottom: 3px solid rgb(100, 162, 212);
+}
+
+.second {
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(255, 134, 134);
+  }
+
+.third {
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(255, 247, 128);
+  }
+
+  .fourth {
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(128, 255, 181);
+  }
+  .fifth {
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(208, 128, 255);
+  }
+
+body
+{
+    font-family: 'Amatic SC', cursive;
+    background-color:rgb(251, 233, 255);
+    text-align: center;
+    font-size: 50px;
+}
+
+
+h1{
+
+    font-family: 'Work Sans', sans-serif;
+}
+
